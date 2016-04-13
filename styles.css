@@ -1,6 +1,6 @@
 
 body {
-    background-color: #ff4500;
+    background-color: #444;
     color: #ccc;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -13,6 +13,5 @@ h1 {
 p {
     color: #fff;
     text-decoration: bold;
-    text-align: center;
-    background-color: #ff4500;
+    background-color: #444;
 }
